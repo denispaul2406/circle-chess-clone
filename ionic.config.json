@@ -1,0 +1,7 @@
+{
+  "name": "caissa-replica-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
